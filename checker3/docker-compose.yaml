@@ -1,5 +1,3 @@
-version: '2.1'
-
 services:
   n0t3b00k-checker:
     build: .
